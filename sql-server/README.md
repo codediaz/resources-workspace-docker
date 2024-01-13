@@ -1,3 +1,3 @@
 # Service - SQL Server
 ## First Step
-- ``mkdir data `` To save local volumen
+- ``mkdir data && chmod 777 data `` To save local volumen with all permits.
